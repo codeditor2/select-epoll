@@ -1,5 +1,5 @@
 # select-epoll
-inux网络编程中select/epoll的比较
+Linux网络编程中select/epoll的比较
 
 编译命令：
 gcc select-server.c -o select-server
